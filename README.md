@@ -2,7 +2,7 @@
 
 # Summary
 
-Codam Coding College is the only peer-to-peer coding institution in the Netherlands, with a world-class curriculum empowering the next leading generation of tech talent. Through our educational model, students are trained to become qualified software engineers and design inclusive solutions for the challenges of today and tomorrow! At Codam, students build technical expertise and grow adaptability, autonomy, and empathy, in close collaboration with private and public partners. We believe that with accessible and innovative education, we fill the need of companies desperately seeking programmers by training a more diverse and inclusive workforce. Being part of the 42 network, allows us to change the status quo of the world one school at a time by guiding change locally, internationally, and globally! At Codam, we believe in the power of sharing knowledge, and the impact those stories can have when they are brought together by passionate and visionary people. We organise different masterclasses, hackathons,coding contests and CodamX talks. Exclusive setups devoted to spreading ideas, knowledge and trends between our partners, tech industry leaders and our students.
+Index repository for all the projects I've done at the 42 school of Codam an.
 
 ## Rank 0
 
